@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(226, 199, 78);
+}
+
+#addButton {
+    border-radius: 20%;
+    background-color: rgb(43, 46, 226);
+}
+
+button :hover {
+    color: rgb(226, 43, 43);
+    background-color: whitesmoke;
+}
